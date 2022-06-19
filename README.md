@@ -6,4 +6,4 @@ https://deltavthrust.com
 expression of rewards and first interation of wallet interaction
 
 https://deltav.exchange
-a simpler onramp system with a more immersive and entertaining user experience
+coming soon; a simpler onramp system with a more immersive and entertaining user experience
